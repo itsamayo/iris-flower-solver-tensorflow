@@ -11,6 +11,6 @@
   "dependencies": {
     "@tensorflow/tfjs": "^1.2.9",
     "@tensorflow/tfjs-node": "^1.2.9",
-    "parcel": "^1.12.3"
+    "parcel": "^2.8.2"
   }
 }
